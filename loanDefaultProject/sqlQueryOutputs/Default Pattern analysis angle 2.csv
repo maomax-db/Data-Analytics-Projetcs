@@ -1,0 +1,231 @@
+﻿Client_Income_Type,Client_Education,Client_Marital_Status,Loan_Contract_Type,total,total_defaults,default_rate
+Govt Job,Junior secondary,M,RL,2,2,100
+Service,NULL,NULL,NULL,1,1,100
+Service,Junior secondary,D,NULL,2,1,50
+Govt Job,Graduation dropout,D,CL,8,2,25
+Service,NULL,S,RL,8,2,25
+Service,Junior secondary,D,CL,9,2,22.22
+Service,Secondary,D,NULL,29,6,20.69
+NULL,Secondary,S,NULL,5,1,20
+Govt Job,Graduation,D,NULL,5,1,20
+Govt Job,Secondary,M,NULL,32,6,18.75
+NULL,Graduation dropout,S,CL,12,2,16.67
+Govt Job,NULL,M,RL,6,1,16.67
+NULL,Junior secondary,M,CL,6,1,16.67
+NULL,NULL,S,CL,6,1,16.67
+Commercial,Secondary,S,NULL,24,4,16.67
+Commercial,NULL,M,RL,19,3,15.79
+Service,Graduation dropout,NULL,CL,20,3,15
+Commercial,Junior secondary,D,CL,7,1,14.29
+Service,Graduation,D,NULL,7,1,14.29
+Commercial,Secondary,W,RL,14,2,14.29
+Commercial,Junior secondary,M,CL,37,5,13.51
+Commercial,Secondary,S,CL,799,100,12.52
+Commercial,Secondary,D,NULL,16,2,12.5
+Service,Secondary,S,NULL,64,8,12.5
+Commercial,NULL,D,CL,16,2,12.5
+NULL,Graduation,S,CL,56,7,12.5
+NULL,Graduation dropout,M,CL,16,2,12.5
+Govt Job,Graduation dropout,S,CL,17,2,11.76
+NULL,Secondary,S,CL,96,11,11.46
+Commercial,Secondary,NULL,NULL,9,1,11.11
+Service,NULL,NULL,CL,9,1,11.11
+NULL,Secondary,M,CL,433,48,11.09
+Service,Secondary,D,CL,907,99,10.92
+Service,Secondary,S,CL,1898,206,10.85
+Govt Job,Graduation,W,CL,19,2,10.53
+Service,Secondary,NULL,CL,366,37,10.11
+NULL,Secondary,S,RL,10,1,10
+Commercial,Secondary,M,NULL,133,13,9.77
+Service,Secondary,M,CL,8852,861,9.73
+Service,Junior secondary,M,CL,93,9,9.68
+Commercial,Secondary,NULL,CL,159,15,9.43
+Commercial,Secondary,D,CL,393,36,9.16
+Commercial,Graduation dropout,M,NULL,11,1,9.09
+Service,NULL,M,CL,419,37,8.83
+Service,Graduation dropout,M,CL,431,38,8.82
+Service,Secondary,M,NULL,311,27,8.68
+Service,Graduation dropout,S,CL,188,16,8.51
+Commercial,Graduation dropout,S,CL,106,9,8.49
+Govt Job,Secondary,W,CL,59,5,8.47
+Commercial,Graduation dropout,M,CL,319,27,8.46
+NULL,Secondary,D,CL,36,3,8.33
+Service,Graduation,D,CL,336,28,8.33
+Service,Secondary,W,NULL,12,1,8.33
+Commercial,Junior secondary,S,CL,12,1,8.33
+Service,Graduation dropout,M,NULL,24,2,8.33
+Commercial,Secondary,S,RL,120,10,8.33
+NULL,Secondary,M,RL,38,3,7.89
+Service,NULL,M,NULL,13,1,7.69
+Service,NULL,W,CL,13,1,7.69
+Service,Graduation,W,CL,91,7,7.69
+Service,NULL,D,CL,26,2,7.69
+Commercial,Secondary,M,CL,3816,277,7.26
+Govt Job,Secondary,S,CL,138,10,7.25
+Commercial,Graduation,M,NULL,83,6,7.23
+NULL,Graduation,M,CL,181,13,7.18
+Service,Graduation,W,RL,14,1,7.14
+NULL,Graduation,M,RL,29,2,6.9
+Commercial,Graduation,NULL,CL,102,7,6.86
+Service,Secondary,M,RL,927,62,6.69
+Service,Graduation dropout,D,CL,46,3,6.52
+Service,Secondary,S,RL,261,17,6.51
+Service,NULL,S,CL,93,6,6.45
+Commercial,Secondary,M,RL,393,25,6.36
+NULL,Secondary,W,CL,16,1,6.25
+Service,Graduation,NULL,RL,16,1,6.25
+Commercial,NULL,S,CL,64,4,6.25
+Service,Graduation,M,NULL,113,7,6.19
+Govt Job,Secondary,M,CL,983,60,6.1
+Service,Secondary,W,CL,381,23,6.04
+Service,Graduation,S,CL,669,40,5.98
+Govt Job,Secondary,D,CL,69,4,5.8
+Service,Secondary,D,RL,88,5,5.68
+Commercial,NULL,M,CL,198,11,5.56
+NULL,Secondary,NULL,CL,18,1,5.56
+Commercial,Graduation,S,CL,567,31,5.47
+Service,Graduation,M,CL,3083,159,5.16
+Commercial,Graduation,D,CL,215,11,5.12
+Commercial,Graduation,M,CL,2234,112,5.01
+Service,Graduation dropout,S,RL,40,2,5
+Commercial,Graduation,NULL,RL,20,1,5
+Govt Job,Graduation dropout,M,CL,60,3,5
+Service,Graduation,NULL,CL,122,6,4.92
+Service,NULL,M,RL,43,2,4.65
+Commercial,Graduation,S,RL,129,6,4.65
+Commercial,Graduation,S,NULL,22,1,4.55
+Commercial,Secondary,W,CL,179,8,4.47
+Govt Job,Graduation,M,NULL,25,1,4
+Commercial,Graduation dropout,S,RL,26,1,3.85
+Service,Graduation dropout,M,RL,54,2,3.7
+Commercial,Graduation dropout,M,RL,54,2,3.7
+Govt Job,Graduation,D,CL,82,3,3.66
+Service,Graduation,S,NULL,31,1,3.23
+Service,Graduation,S,RL,127,4,3.15
+Govt Job,Graduation,S,RL,33,1,3.03
+Service,Graduation,M,RL,432,13,3.01
+Commercial,Graduation,M,RL,394,11,2.79
+Service,Secondary,NULL,RL,38,1,2.63
+Commercial,Secondary,D,RL,42,1,2.38
+Govt Job,Graduation,M,CL,714,15,2.1
+Commercial,Graduation,W,CL,51,1,1.96
+Govt Job,NULL,M,CL,56,1,1.79
+Govt Job,Graduation,S,CL,122,2,1.64
+Govt Job,Graduation,M,RL,101,1,0.99
+Commercial,Secondary,NULL,RL,12,0,0
+NULL,Secondary,D,NULL,1,0,0
+NULL,Graduation,W,CL,5,0,0
+Commercial,Junior secondary,D,NULL,1,0,0
+NULL,Graduation dropout,S,NULL,1,0,0
+Commercial,Graduation dropout,D,CL,21,0,0
+Commercial,NULL,D,RL,3,0,0
+NULL,Graduation dropout,M,RL,3,0,0
+Govt Job,Graduation dropout,M,NULL,2,0,0
+Govt Job,Post Grad,M,CL,5,0,0
+Service,Graduation dropout,NULL,NULL,2,0,0
+Govt Job,Junior secondary,S,CL,1,0,0
+Govt Job,Secondary,D,NULL,5,0,0
+Service,Junior secondary,NULL,RL,1,0,0
+Commercial,NULL,NULL,CL,7,0,0
+Commercial,Graduation dropout,W,CL,5,0,0
+NULL,Secondary,NULL,RL,3,0,0
+Commercial,Graduation,W,RL,9,0,0
+Govt Job,Graduation dropout,S,NULL,1,0,0
+Service,Graduation dropout,D,NULL,2,0,0
+Commercial,Graduation dropout,S,NULL,1,0,0
+NULL,NULL,M,CL,15,0,0
+Commercial,Junior secondary,M,NULL,1,0,0
+Commercial,Secondary,W,NULL,10,0,0
+Service,NULL,D,RL,6,0,0
+Govt Job,NULL,S,RL,1,0,0
+Service,NULL,NULL,RL,2,0,0
+NULL,Secondary,M,NULL,18,0,0
+Commercial,Graduation,D,RL,33,0,0
+NULL,NULL,NULL,RL,1,0,0
+Commercial,Graduation dropout,NULL,CL,12,0,0
+NULL,Graduation,S,RL,8,0,0
+Govt Job,Junior secondary,M,CL,8,0,0
+Student,Graduation,D,RL,1,0,0
+NULL,NULL,W,CL,2,0,0
+Govt Job,Graduation,NULL,RL,3,0,0
+Govt Job,NULL,S,CL,10,0,0
+Service,Graduation dropout,W,RL,2,0,0
+Service,Junior secondary,S,RL,2,0,0
+Service,Graduation,NULL,NULL,5,0,0
+Service,Graduation dropout,W,CL,8,0,0
+Commercial,Post Grad,S,RL,1,0,0
+NULL,Secondary,D,RL,2,0,0
+Govt Job,NULL,M,NULL,3,0,0
+Govt Job,Secondary,M,RL,74,0,0
+Commercial,NULL,W,CL,8,0,0
+Commercial,Junior secondary,W,CL,2,0,0
+Service,Secondary,W,RL,46,0,0
+NULL,Secondary,W,RL,1,0,0
+NULL,Graduation,D,CL,19,0,0
+Retired,Secondary,M,RL,2,0,0
+Govt Job,Secondary,NULL,CL,35,0,0
+Commercial,Junior secondary,NULL,CL,1,0,0
+Govt Job,NULL,NULL,RL,1,0,0
+Commercial,Graduation dropout,W,RL,1,0,0
+Govt Job,Graduation,D,RL,14,0,0
+Govt Job,Graduation dropout,M,RL,8,0,0
+Commercial,Post Grad,M,RL,1,0,0
+Service,Junior secondary,M,RL,10,0,0
+Service,Junior secondary,S,NULL,1,0,0
+Service,NULL,D,NULL,4,0,0
+Govt Job,Post Grad,D,CL,1,0,0
+NULL,Graduation dropout,S,RL,2,0,0
+Commercial,Graduation,NULL,NULL,2,0,0
+Govt Job,Secondary,S,RL,8,0,0
+Service,Junior secondary,M,NULL,2,0,0
+Service,Graduation,W,NULL,2,0,0
+Govt Job,Graduation,W,RL,2,0,0
+NULL,Graduation,D,RL,1,0,0
+Commercial,Post Grad,M,CL,2,0,0
+Commercial,NULL,S,RL,5,0,0
+Service,NULL,S,NULL,2,0,0
+Govt Job,Graduation,NULL,CL,22,0,0
+Commercial,Graduation dropout,D,RL,3,0,0
+Govt Job,NULL,NULL,CL,2,0,0
+Govt Job,Secondary,D,RL,8,0,0
+Govt Job,Graduation dropout,NULL,CL,2,0,0
+Service,NULL,W,RL,1,0,0
+Service,Post Grad,D,CL,2,0,0
+Commercial,Junior secondary,M,RL,3,0,0
+Govt Job,Secondary,NULL,NULL,2,0,0
+Commercial,NULL,S,NULL,2,0,0
+Govt Job,Junior secondary,NULL,CL,1,0,0
+Govt Job,NULL,W,CL,1,0,0
+Commercial,Graduation,D,NULL,7,0,0
+Service,Junior secondary,D,RL,2,0,0
+Govt Job,NULL,D,CL,4,0,0
+Service,Graduation,D,RL,33,0,0
+Service,Graduation dropout,NULL,RL,5,0,0
+Govt Job,NULL,D,RL,1,0,0
+NULL,Graduation,NULL,RL,1,0,0
+NULL,NULL,M,RL,2,0,0
+Service,Junior secondary,W,CL,6,0,0
+Govt Job,Graduation dropout,D,RL,2,0,0
+Govt Job,Graduation,NULL,NULL,1,0,0
+Service,Post Grad,S,NULL,1,0,0
+Govt Job,Secondary,W,RL,3,0,0
+Commercial,NULL,NULL,RL,1,0,0
+Govt Job,NULL,S,NULL,1,0,0
+Service,Junior secondary,W,RL,1,0,0
+NULL,Graduation,NULL,CL,3,0,0
+Student,Secondary,M,CL,1,0,0
+Govt Job,Secondary,S,NULL,4,0,0
+Service,Junior secondary,NULL,CL,6,0,0
+Govt Job,Graduation dropout,S,RL,3,0,0
+NULL,Junior secondary,NULL,CL,1,0,0
+Service,Secondary,NULL,NULL,8,0,0
+Service,Graduation dropout,S,NULL,6,0,0
+Maternity leave,Graduation,M,RL,1,0,0
+Service,Post Grad,M,CL,7,0,0
+Service,Graduation dropout,D,RL,7,0,0
+Service,Junior secondary,S,CL,27,0,0
+NULL,Graduation dropout,D,CL,4,0,0
+NULL,Graduation,M,NULL,8,0,0
+Businessman,Graduation,M,RL,1,0,0
+Commercial,NULL,M,NULL,6,0,0
+Commercial,Graduation dropout,NULL,RL,2,0,0
